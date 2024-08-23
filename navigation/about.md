@@ -12,8 +12,6 @@ Hi, my name is Tara Sehdave and I am a senior in highschool. The reason I decide
 
 <code style= "color: #f95b39; font-size:12px"> About Me
 
-<img src="images/car.heic" height="500px" width="650px"/>
-
 <code style= "color: #f95b39; font-size:12px"> About Me
 
 <code style= "color: #f95b39; font-size:12px"> My Schedule 
@@ -25,6 +23,31 @@ Hi, my name is Tara Sehdave and I am a senior in highschool. The reason I decide
 | AP Computer Science A      |   3      |
 | AP United States Government and Politics     |   4      |
 | Offroll   |   5      |
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Drawing App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Simple Drawing App</h1>
+    <div class="toolbar">
+        <label for="colorPicker">Color: </label>
+        <input type="color" id="colorPicker">
+        
+        <label for="brushSize">Brush Size: </label>
+        <input type="range" id="brushSize" min="1" max="20" value="5">
+        
+        <button id="clearButton">Clear</button>
+    </div>
+    <canvas id="drawingCanvas"></canvas>
+    <script src="script.js"></script>
+</body>
+</html>
+
 
 
 
