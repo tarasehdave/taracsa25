@@ -24,7 +24,6 @@ Hi, my name is Tara Sehdave and I am a senior in highschool. The reason I decide
 | AP United States Government and Politics     |   4      |
 | Offroll   |   5      |
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -47,6 +46,21 @@ Hi, my name is Tara Sehdave and I am a senior in highschool. The reason I decide
     <script src="script.js"></script>
 </body>
 </html>
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+canvas {
+    border: 2px solid #2e3a46;
+}
+
+const canvas = document.getElementById('drawingCanvas');
+const ctx = canvas.getContext('2d');
+canvas.width = window.innerWidth * 0.8;
+canvas.height = window.innerHeight * 0.7;
+
 
 
 
