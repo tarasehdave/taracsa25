@@ -28,7 +28,7 @@ Hi, my name is Tara Sehdave and I am a senior in highschool. The reason I decide
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple Drawing App</title>
+    <title><code style= "color: #f95b39; font-size:12px">Simple Drawing App</title>
     <style>
         body {
             font-family: Arial, sans-serif;
