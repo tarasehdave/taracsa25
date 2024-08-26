@@ -12,8 +12,7 @@ Hi, my name is Tara Sehdave and I am a senior in highschool. The reason I decide
 
 <code style= "color: #f95b39; font-size:12px"> About Me
 
-IMG_2410.png
-<img src="images/IMG_2410.png" height="500px" width="660px"/>
+<img src="../images/IMG_2410.png" height="500px" width="660px"/>
 <img src="images/friends.jpg" height="500px" width="660px"/>
 <img src="images/friends.jpg" height="500px" width="660px"/>
 
