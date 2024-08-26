@@ -16,11 +16,6 @@ Hi, my name is Tara Sehdave and I am a senior in highschool. The reason I decide
 <img src="../images/IMG_9225.png" height="500px" width="660px"/>
 <img src="../images/IMG_9696.png" height="500px" width="660px"/>
 
-
-<code style= "color: #f95b39; font-size:12px"> About Me
-
-<code style= "color: #f95b39; font-size:12px"> My Schedule 
-
 | Class       | Period 
 | ----------- |:-------|
 | AP English Literature      |   1      |
