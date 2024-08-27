@@ -2,8 +2,8 @@ title: Nighthawk Pages
 description: "Class of 2025"
 owner_name: Tara Sehdave
 github_username: tarasehdave
-github_repo: "csa25" 
-baseurl: "/csa25"
+github_repo: "taracsa25" 
+baseurl: "/taracsa25"
 future: true
 remote_theme: jekyll/minima
 minima:
