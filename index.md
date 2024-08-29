@@ -41,7 +41,7 @@ hide: true
       font-size: 4em;
       color: hotpink; /* Dark text color */
       text-align: center;
-      font-family:cursive;
+      font-family:fantasy;
     }
     .button {
       padding: 10px 30px; /* Increases padding for an oval shape */
