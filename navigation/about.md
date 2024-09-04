@@ -12,8 +12,6 @@ Hi, my name is Tara Sehdave and I am a senior in highschool. The reason I decide
 
 <code style= "color: #f95b39; font-size:20px"> Photos with my friends and family 
 
-<img src="../images/IMG_2410.png" height="500px" width="700px"/>
-
 <img src="../images/IMG_9225.png" height="500px" width="700px"/>
 
 <img src="../images/IMG_9696.png" height="500px" width="700px"/>
