@@ -13,8 +13,10 @@ Hi, my name is Tara Sehdave and I am a senior in highschool. The reason I decide
 <code style= "color: #f95b39; font-size:20px"> Photos with my friends and family 
 
 <img src="../images/IMG_9225.png" height="500px" width="700px"/>
+Vidhi, Kendall, and I at my summer internship in Washington D.C.
 
 <img src="../images/IMG_9696.png" height="500px" width="700px"/>
+Sharon, Tanisha, Dylan, and I on the first day of senior year
 
 | Class       | Period 
 | ----------- |:-------|
