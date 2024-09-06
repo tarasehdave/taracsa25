@@ -6,8 +6,6 @@ permalink: /about/
 
 <code style= "color: #f64f2c; font-size:24px"> Tara Sehdave
 
-<code style= "color: #f95b39; font-size:20px"> About Me
-
 <code style= "color: #f95b39; font-size:20px"> Favorite Band
 
 <img src="../images/queen.png" height="500px" width="700px"/>
