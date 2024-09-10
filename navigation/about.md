@@ -21,3 +21,7 @@ Hi, my name is Tara Sehdave and I am a senior in highschool. The reason I decide
 | AP Computer Science A      |   3      |
 | AP United States Government and Politics     |   4      |
 | Offroll   |   5      |
+
+<div id="socials">
+    <p style="position: absolute; left: 125px; top: -10%;"><a href="https://github.com/tarasehdave"><img src="../images/github.png" width="50" height="50"></a></p>
+</div>

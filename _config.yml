@@ -1,4 +1,4 @@
-title: Nighthawk Pages 
+title: Home Page 
 description: "Class of 2025"
 owner_name: Tara Sehdave
 github_username: tarasehdave
@@ -13,7 +13,7 @@ minima:
     - { platform: x, user_url: "https://x.com/NighthawkCoding/" }
     - { platform: youtube, user_url: "https://www.youtube.com/@nighthawkcodingsociety2868" } 
 # remote_theme: pages-themes/midnight@v0.2.0
-# remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 # remote_theme: pages-themes/dinky@v0.2.0
 # remote_theme: pages-themes/minimal@v0.2.0
 # remote_theme: pages-themes/time-machine@v0.2.0
@@ -22,5 +22,6 @@ plugins:
 header_pages:
   - navigation/blog.md
   - navigation/search.md
+  - navigation/section/csa.md
   - navigation/about.md
   - README4YML.md

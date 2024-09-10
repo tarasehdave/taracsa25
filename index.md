@@ -1,15 +1,10 @@
 ---
 layout: base
-title: Student Home 
-description: Home Page
+title: Tara Sehdave 
+description: 
 hide: true
 ---
 
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Tic Tac Toe</title>
   <style>
     .board {
       display: grid;
@@ -29,12 +24,6 @@ hide: true
       cursor: pointer;
       border: 1px solid #333;
       border-color: #ff0000;
-    }
-    body {
-      background-image: url('images/background.jpg');
-      background-size: cover; /* Ensures the image covers the entire background */
-      background-position: center; /* Centers the image */
-      background-repeat: no-repeat; /* Prevents the image from repeating */
     }
     .title {
       margin-bottom: 20px;
@@ -65,10 +54,57 @@ hide: true
       text-align: center; /* Centers content horizontally */
       margin-top: 20px;  /* Optional: Add top margin for spacing */
     }
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      color: #333; /* Ensures text is visible */
+    }
+    .intro {
+        max-width: 800px;
+        margin: 20px auto;
+        padding: 20px;
+        background-color: #fff;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        color: #333; /* Ensures text is visible */
+    }
+    .gallery {
+        display: flex;
+        justify-content: space-around;
+        margin-top: 20px;
+    }
+    .gallery img {
+        width: 30%;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    .projects {
+        max-width: 800px;
+        margin: 20px auto;
+        padding: 20px;
+        background-color: #fff;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        color: #333; /* Ensures text is visible */
+    }
+    .projects h2 {
+        color: #333; /* Ensures text is visible */
+        margin-bottom: 10px;
+    }
+    .projects ul {
+        list-style-type: disc;
+        padding-left: 20px;
+    }
+    .projects ul li {
+        margin-bottom: 8px;
+    }
 
   </style>
-</head>
-<body>
+
+
 <h1 class="title">Tic Tac Toe</h1>
   <div class="board">
     <div class="cell" id="cell-0" onclick="handleCellClick(0)"></div>
@@ -85,7 +121,7 @@ hide: true
   <label class="button" onclick="resetGame()">Reset Game</label>
 </div>
 
-  <script language="javascript">
+<script language="javascript">
     // Initialize game state
 let board = ["", "", "", "", "", "", "", "", ""];
 let currentPlayer = "X";
@@ -136,7 +172,6 @@ function resetGame() {
 }
 
   </script>
-</body>
-</html>
+
 
 
