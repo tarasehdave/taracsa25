@@ -14,6 +14,14 @@ Hi, my name is Tara Sehdave and I am a senior in highschool. The reason I decide
 
 <img src="../images/IMG_9696.png" height="500px" width="700px"/>
 
+<comment>
+Gallery of Pics, scroll to the right for more ...
+</comment>
+<div class="image-gallery">
+  <img src="/images/IMG_9225.png" alt="Image 1" />
+  <img src="/images/IMG_9696.png" alt="Image 2" />
+</div>
+
 | Class       | Period 
 | ----------- |:-------|
 | AP English Literature      |   1      |
