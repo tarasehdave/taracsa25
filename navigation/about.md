@@ -10,10 +10,7 @@ Hi, my name is Tara Sehdave and I am a senior in highschool. The reason I decide
 
 ## Photos with friends and family
 
-<img src="../images/anikabday.png" height="200px" width="250px"/> <img src="../images/capitol.png" height="200px" width="250px"/> <img src="../images/libraryofcongress.png" height="200px" width="250px"/> <img src="../images/militarynight.png" height="200px" width="250px"/> <img src="../images/mocktrial.png" height="200px" width="250px"/> 
-
-<img src="../images/sacs24.png" height="250px" width="200px"/> <img src="../images/anikagrad.png" height="250px" width="200px"/>
-
+<img src="../images/anikabday.png" height="200px" width="250px"/> <img src="../images/capitol.png" height="200px" width="250px"/> <img src="../images/libraryofcongress.png" height="200px" width="250px"/> <img src="../images/militarynight.png" height="200px" width="250px"/> <img src="../images/mocktrial.png" height="200px" width="250px"/> <img src="../images/sacs24.png" height="250px" width="200px"/> 
 ## Around the World
 
 <img src="../images/arcdeconstantine.png" height="400px" width="200px"/> <img src="../images/florence.png" height="400px" width="200px"/> <img src="../images/hawaii.png" height="400px" width="200px"/> <img src="../images/liberty.png" height="400px" width="200px"/> <img src="../images/lincoln.png" height="400px" width="200px"/> <img src="../images/naples.png" height="400px" width="200px"/> <img src="../images/paris.png" height="400px" width="200px"/> <img src="../images/pisa.png" height="400px" width="200px"/> <img src="../images/readingroom.png" height="400px" width="200px"/> <img src="../images/trevi.png" height="400px" width="200px"/> <img src="../images/bostonhouse.png" height="400px" width="200px"/> <img src="../images/bostonsunset.png" height="400px" width="200px"/> <img src="../images/brooklyn.png" height="400px" width="200px"/> <img src="../images/castle.png" height="400px" width="200px"/> <img src="../images/pompeii.png" height="400px" width="200px"/> <img src="../images/supremecourt.png" height="400px" width="200px"/>
