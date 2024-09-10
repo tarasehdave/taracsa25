@@ -4,23 +4,19 @@ title: About
 permalink: /about/
 ---
 
-<code style= "color: #f64f2c; font-size:24px"> Tara Sehdave
+# Tara Sehdave
 
 Hi, my name is Tara Sehdave and I am a senior in highschool. The reason I decided to take AP Computer Science A is because I would like to challenge myself. Although I am not an aspiring software programmer nor an expert in coding, I believe the ability to code is increasingly becoming more relevant and may someday assist me in my future career as a lawyer. 
 
-<code style= "color: #f95b39; font-size:20px"> Photos with my friends and family 
+## Photos with friends and family
 
-<img src="../images/IMG_9225.png" height="500px" width="700px"/>
+<img src="../images/anikabday.png" height="200px" width="250px"/> <img src="../images/capitol.png" height="200px" width="250px"/> <img src="../images/libraryofcongress.png" height="200px" width="250px"/> <img src="../images/militarynight.png" height="200px" width="250px"/> <img src="../images/mocktrial.png" height="200px" width="250px"/> 
 
-<img src="../images/IMG_9696.png" height="500px" width="700px"/>
+<img src="../images/sacs24.png" height="250px" width="200px"/> <img src="../images/anikagrad.png" height="250px" width="200px"/>
 
-<comment>
-Gallery of Pics, scroll to the right for more ...
-</comment>
-<div class="image-gallery">
-  <img src="../images/IMG_9225.png" alt="Image 1" />
-  <img src="../images/IMG_9696.png" alt="Image 2" />
-</div>
+## Around the World
+
+<img src="../images/arcdeconstantine.png" height="400px" width="200px"/> <img src="../images/florence.png" height="400px" width="200px"/> <img src="../images/hawaii.png" height="400px" width="200px"/> <img src="../images/liberty.png" height="400px" width="200px"/> <img src="../images/lincoln.png" height="400px" width="200px"/> <img src="../images/naples.png" height="400px" width="200px"/> <img src="../images/paris.png" height="400px" width="200px"/> <img src="../images/pisa.png" height="400px" width="200px"/> <img src="../images/readingroom.png" height="400px" width="200px"/> <img src="../images/trevi.png" height="400px" width="200px"/> <img src="../images/bostonhouse.png" height="400px" width="200px"/> <img src="../images/bostonsunset.png" height="400px" width="200px"/> <img src="../images/brooklyn.png" height="400px" width="200px"/> <img src="../images/castle.png" height="400px" width="200px"/> <img src="../images/pompeii.png" height="400px" width="200px"/> <img src="../images/supremecourt.png" height="400px" width="200px"/>
 
 | Class       | Period 
 | ----------- |:-------|
