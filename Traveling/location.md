@@ -82,12 +82,13 @@ permalink: /traveling/location/
 <body>
     <div class="container">
         <div class="dropdown-group">
-            <label for="dropdown1">Country</label>
+            <label for="dropdown1">Environment</label>
             <select id="dropdown1">
                 <option value="">-- Select an Option --</option>
-                <option value="italy">Italy</option>
-                <option value="greece">Greece</option>
-                <option value="india">India</option>
+                <option value="tropical">Tropical</option>
+                <option value="island">Island</option>
+                <option value="city">City</option>
+                <option value="desert">Desert</option>
             </select>
         </div>
         <div class="dropdown-group">
@@ -102,22 +103,34 @@ permalink: /traveling/location/
         const dropdown1 = document.getElementById('dropdown1');
         const dropdown2 = document.getElementById('dropdown2');
         const options = {
-            italy: [
-            { value: 'rome', text: 'Rome' },
-            { value: 'florence', text: 'Florence' },
-            { value: 'venice', text: 'Venice' }
+            tropical: [
+            { value: 'goa, india', text: 'Goa, India' },
+            { value: 'cancun, mexico', text: 'Cancun, Mexico' },
+            { value: 'rio de janeiro, brazil', text: 'Rio de Janeiro, Brazil' }
+            { value: 'bangkok, thailand', text: 'Bangkok, Thailand' }
+            { value: 'yucatan peninsula, mexico', text: 'Yucatan Peninsula, Mexico' }
             ],
-            greece: [
-                { value: 'athens', text: 'Athens' },
-                { value: 'corfu', text: 'Corfu' },
-                { value: 'santorini', text: 'Santorini' }
+            island: [
+                { value: 'hawaii, USA', text: 'Hawaii, USA' },
+                { value: 'bora bora, french polynesia', text: 'Bora Bora, French Polynesia' },
+                { value: 'Bahrain', text: 'Bahrain' }
+                { value: 'maldives', text: 'Maldives' }
+                { value: 'santorini, greece', text: 'Santorini, Greece' }
             ],
-            india: [
-                { value: 'mumbai', text: 'Mumbai' },
-                { value: 'delhi', text: 'Delhi' },
-                { value: 'bangalore', text: 'Bangalore' }
+            city:[
+                { value: 'new york city, USA', text: 'New York City, USA' },
+                { value: 'paris, france', text: 'Paris, France' },
+                { value: 'london, england', text: 'London, England' }
+                { value: 'tokyo, japan', text: 'Tokyo, Japan' }
+                { value: 'shanghai, china', text: 'Shanghai, China' }
             ]
-            
+             desert: [
+                { value: 'cairo, egypt', text: 'Cairo, Egypt' },
+                { value: 'las vegas, USA', text: 'Las Vegas, USA' },
+                { value: 'phoenix, arizona', text: 'Phoenix, Arizona' }
+                { value: 'fez, morocco', text: 'Fez, Morocco' }
+                { value: 'jerusalem, israel/palestine', text: 'Jerusalem, Israel/Palestine' }
+            ]  
         };
         dropdown1.addEventListener('change', function() {
             const selectedValue = this.value;  
