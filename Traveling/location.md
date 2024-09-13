@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Location
-permalink: /traveling/location/
+permalink: /traveling/locations/
 ---
-
+{% include home.html %}
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -104,32 +104,32 @@ permalink: /traveling/location/
         const dropdown2 = document.getElementById('dropdown2');
         const options = {
             tropical: [
-            { value: 'goa, india', text: 'Goa, India' },
-            { value: 'cancun, mexico', text: 'Cancun, Mexico' },
-            { value: 'rio de janeiro, brazil', text: 'Rio de Janeiro, Brazil' }
-            { value: 'bangkok, thailand', text: 'Bangkok, Thailand' }
-            { value: 'yucatan peninsula, mexico', text: 'Yucatan Peninsula, Mexico' }
+            { value: 'goa', text: 'Goa, India' },
+            { value: 'cancun', text: 'Cancun, Mexico' },
+            { value: 'rio', text: 'Rio de Janeiro, Brazil' },
+            { value: 'bangkok', text: 'Bangkok, Thailand' },
+            { value: 'yucatan', text: 'Yucatan Peninsula, Mexico' }
             ],
             island: [
-                { value: 'hawaii, USA', text: 'Hawaii, USA' },
-                { value: 'bora bora, french polynesia', text: 'Bora Bora, French Polynesia' },
-                { value: 'Bahrain', text: 'Bahrain' }
-                { value: 'maldives', text: 'Maldives' }
-                { value: 'santorini, greece', text: 'Santorini, Greece' }
+                { value: 'hawaii', text: 'Hawaii, USA' },
+                { value: 'borabora', text: 'Bora Bora, French Polynesia' },
+                { value: 'bahrain', text: 'Bahrain' },
+                { value: 'maldives', text: 'Maldives' },
+                { value: 'santorini', text: 'Santorini, Greece' }
             ],
             city:[
-                { value: 'new york city, USA', text: 'New York City, USA' },
-                { value: 'paris, france', text: 'Paris, France' },
-                { value: 'london, england', text: 'London, England' }
-                { value: 'tokyo, japan', text: 'Tokyo, Japan' }
-                { value: 'shanghai, china', text: 'Shanghai, China' }
-            ]
-             desert: [
-                { value: 'cairo, egypt', text: 'Cairo, Egypt' },
-                { value: 'las vegas, USA', text: 'Las Vegas, USA' },
-                { value: 'phoenix, arizona', text: 'Phoenix, Arizona' }
-                { value: 'fez, morocco', text: 'Fez, Morocco' }
-                { value: 'jerusalem, israel/palestine', text: 'Jerusalem, Israel/Palestine' }
+                { value: 'newyork', text: 'New York City, USA' },
+                { value: 'paris', text: 'Paris, France' },
+                { value: 'london', text: 'London, England' },
+                { value: 'tokyo', text: 'Tokyo, Japan' },
+                { value: 'shanghai', text: 'Shanghai, China' }
+            ],
+            desert: [
+                { value: 'cairo', text: 'Cairo, Egypt' },
+                { value: 'vegas', text: 'Las Vegas, USA' },
+                { value: 'phoenix', text: 'Phoenix, Arizona' },
+                { value: 'fez', text: 'Fez, Morocco' },
+                { value: 'jerusalem', text: 'Jerusalem, Israel/Palestine' }
             ]  
         };
         dropdown1.addEventListener('change', function() {
@@ -150,7 +150,8 @@ permalink: /traveling/location/
         function handleSubmit() {
             const dropdown1Value = document.getElementById('dropdown1').value;
             const dropdown2Value = document.getElementById('dropdown2').value;
-            alert(`You selected: ${dropdown1Value} and ${dropdown2Value}`);
+            window.location.href="./"+dropdown2Value
+            //alert(`You selected: ${dropdown1Value} and ${dropdown2Value}`);
         }
     </script>
     </body>
