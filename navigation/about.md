@@ -8,7 +8,7 @@ permalink: /about/
 
 Hi, my name is Tara Sehdave and I am a senior in highschool. The reason I decided to take AP Computer Science A is because I would like to challenge myself. Although I am not an aspiring software programmer nor an expert in coding, I believe the ability to code is increasingly becoming more relevant and may someday assist me in my future career as a lawyer. 
 
-## Photos with friends and family
+## Photos with friends
 
 <img src="../images/anikabday.png" height="200px" width="250px"/> <img src="../images/capitol.png" height="200px" width="250px"/> <img src="../images/libraryofcongress.png" height="200px" width="250px"/> <img src="../images/militarynight.png" height="200px" width="250px"/> <img src="../images/mocktrial.png" height="200px" width="250px"/> <img src="../images/sacs24.png" height="250px" width="200px"/> 
 
