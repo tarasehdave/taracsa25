@@ -14,7 +14,7 @@ Hi, my name is Tara Sehdave and I am a senior in highschool. The reason I decide
 
 - I have many friends from all around the country because I have a recurring internship in Georgetown every summer 
 - I enjoy joining clubs that allow me to meet people that I would have otherwise not, such as Mock Trial and SACs 
-- 
+- Me and my dad regulary go autocrossing 
 
 <div style="text-align: center;">
   <svg width="500" height="200">
