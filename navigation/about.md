@@ -12,6 +12,7 @@ Hi, my name is Tara Sehdave and I am a senior in highschool. The reason I decide
 
 <img src="../images/anikabday.png" height="200px" width="250px"/> <img src="../images/capitol.png" height="200px" width="250px"/> <img src="../images/libraryofcongress.png" height="200px" width="250px"/> <img src="../images/militarynight.png" height="200px" width="250px"/> <img src="../images/mocktrial.png" height="200px" width="250px"/> <img src="../images/sacs24.png" height="250px" width="200px"/> 
 
+## Fun Facts
 - I have many friends from all around the country because I have a recurring internship in Georgetown every summer 
 - I enjoy joining clubs that allow me to meet people that I would have otherwise not, such as Mock Trial and SACs 
 - Me and my dad regulary go autocrossing 
